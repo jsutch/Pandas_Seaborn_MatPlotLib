@@ -8,13 +8,13 @@ Some examples of:
 
 ## On collettpark.com you can also see:
 
-- US Agriculture by State 2011 
+- US Agriculture by State 2011   
 https://www.collettpark.com/viz/us-ag.html
 
 - Global GDP 2014  
 https://www.collettpark.com/viz/world_gdp.html
 
-- A map of US Volcanoes
+- A map of US Volcanoes  
 https://www.collettpark.com/viz/us_volcanoes.html
 
 - Seattle Parks Data  
